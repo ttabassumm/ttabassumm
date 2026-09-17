@@ -70,10 +70,10 @@ Secondary School Certificate, Science | Jan 2016 – Feb 2018
 <picture> 
   <source
     media="(prefers-color-scheme: light)"
-   srcset="https://raw.githubusercontent.com/ariful305/ariful305/output/snake.svg"
+   srcset="https://raw.githubusercontent.com/ttabassumm/ttabassumm/output/snake.svg"
   />
   <img
     alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/ariful305/ariful305/output/snake.svg"
+    src="https://raw.githubusercontent.com/ttabassumm/ttabassumm/output/snake.svg"
   />
 </picture>
