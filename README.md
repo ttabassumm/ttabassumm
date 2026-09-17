@@ -67,5 +67,13 @@ Secondary School Certificate, Science | Jan 2016 – Feb 2018
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmonira1907@gmail.com)
 
 ---
-
-⭐️ Thanks for stopping by — always open to connecting on SQA, software testing, and dev projects!
+<picture> 
+  <source
+    media="(prefers-color-scheme: light)"
+   srcset="https://raw.githubusercontent.com/ariful305/ariful305/output/snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ariful305/ariful305/output/snake.svg"
+  />
+</picture>
